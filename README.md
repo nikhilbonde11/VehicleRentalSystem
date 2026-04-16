@@ -5,8 +5,6 @@ Vehicle Rental System
 
 Vehicle Rental System in C++ (OOP Based)
 
-
-
 <p>
 <br><br>
 <b>Vehicle Rental System</b> is based on the concept of managing vehicle rentals including cars and bikes. This system allows users to view available vehicles, rent them, return them, and calculate rental costs. It demonstrates core Object-Oriented Programming concepts in C++ such as inheritance, polymorphism, abstraction, and encapsulation.
@@ -29,10 +27,9 @@ Features of this C++ language based project :
 
 <h2>Screenshots :</h2>
 
-<!-- Add your screenshots here -->
-<!-- Example:
-<img src="your_image_link_here.png" alt="screenshot">
--->
+<p align="center">
+<img src="images/output.png" alt="Project Output Screenshot" width="700">
+</p>
 
 <h2>
 INFO
@@ -46,3 +43,4 @@ VEHICLE RENTAL SYSTEM IN C++
 DEVELOPED BY NIKHIL BONDE
 </footer>
 
+</footer>
