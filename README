@@ -1,0 +1,33 @@
+# 🚗 Vehicle Rental System (C++ OOP Project)
+
+## 📌 Overview
+
+This is a simple Vehicle Rental System built using C++ and
+Object-Oriented Programming (OOP) concepts.\
+The project simulates renting and returning vehicles such as cars and
+bikes.
+
+## ⚙️ Features
+
+-   Add vehicles (Car & Bike)
+-   Display available vehicles
+-   Rent a vehicle
+-   Return a vehicle
+-   Calculate rental cost
+
+## 🧠 OOP Concepts Used
+
+-   Inheritance
+-   Polymorphism
+-   Encapsulation
+-   Abstraction
+
+## ▶️ How to Run
+
+Compile: g++ main.cpp -o rental
+
+Run: ./rental
+
+## 👨‍💻 Author
+
+Nikhil Bonde
